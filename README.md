@@ -5,6 +5,9 @@
 ### RESPUESTAS DE INTRODUCION
 > [!NOTE]
 > Mencione, al menos, tres otras aplicaciones que estén disponibles para utilizar.
+
+> [!IMPORTANT]
+> DNS, FINGER, FTP, HTTP, HTTPS, IMAP, NETBIOS, PING, POP3, SFTP, SMTP, SNMP, SSH, TELNET, TFTP y OTHER.
 ### PREGUNTAS DE REFLEXION
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
