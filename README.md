@@ -4,10 +4,14 @@
 
 ### RESPUESTAS DE INTRODUCION
 > [!NOTE]
-> Mencione, al menos, tres otras aplicaciones que estén disponibles para utilizar.
+> &#9312; Mencione, al menos, tres otras aplicaciones que estén disponibles para utilizar.
+> g.	Haga clic en Capture/Forward (Capturar/Adelantar) dos veces. ¿Qué sucedió con el paquete?
+
 
 > [!IMPORTANT]
-> DNS, FINGER, FTP, HTTP, HTTPS, IMAP, NETBIOS, PING, POP3, SFTP, SMTP, SNMP, SSH, TELNET, TFTP y OTHER.
+> R// DNS, FINGER, FTP, HTTP, HTTPS, IMAP, NETBIOS, PING, POP3, SFTP, SMTP, SNMP, SSH, TELNET, TFTP y OTHER.
+> R//
 ### PREGUNTAS DE REFLEXION
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> &#9312;	Si un equipo en la VLAN 10 envía un mensaje de difusión, ¿qué dispositivos lo reciben?
+
