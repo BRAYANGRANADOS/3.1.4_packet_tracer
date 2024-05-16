@@ -10,8 +10,10 @@
 
 > [!IMPORTANT]
 > &#9312; R// DNS, FINGER, FTP, HTTP, HTTPS, IMAP, NETBIOS, PING, POP3, SFTP, SMTP, SNMP, SSH, TELNET, TFTP y OTHER.
+> 
 > &#9313; R// El paquete se envía al switch y, luego, se transmite por difusión a todas las computadoras que 
 pertenecen a la misma VLAN y, en este caso, la VLAN 10.
+> 
 
 ### PREGUNTAS DE REFLEXION
 > [!NOTE]
