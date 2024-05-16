@@ -5,12 +5,14 @@
 ### RESPUESTAS DE INTRODUCION
 > [!NOTE]
 > &#9312; Mencione, al menos, tres otras aplicaciones que estén disponibles para utilizar.
-> g.	Haga clic en Capture/Forward (Capturar/Adelantar) dos veces. ¿Qué sucedió con el paquete?
+> &#9313; g.	Haga clic en Capture/Forward (Capturar/Adelantar) dos veces. ¿Qué sucedió con el paquete?
 
 
 > [!IMPORTANT]
-> R// DNS, FINGER, FTP, HTTP, HTTPS, IMAP, NETBIOS, PING, POP3, SFTP, SMTP, SNMP, SSH, TELNET, TFTP y OTHER.
-> R//
+> &#9312; R// DNS, FINGER, FTP, HTTP, HTTPS, IMAP, NETBIOS, PING, POP3, SFTP, SMTP, SNMP, SSH, TELNET, TFTP y OTHER.
+> &#9313; R// El paquete se envía al switch y, luego, se transmite por difusión a todas las computadoras que 
+pertenecen a la misma VLAN y, en este caso, la VLAN 10.
+
 ### PREGUNTAS DE REFLEXION
 > [!NOTE]
 > &#9312;	Si un equipo en la VLAN 10 envía un mensaje de difusión, ¿qué dispositivos lo reciben?
